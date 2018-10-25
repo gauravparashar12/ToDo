@@ -39,8 +39,11 @@ What should you use?
 Libraries
 
 Node Frameworks (Strongloop preferable)
+
 React
+
 Redux
+
 Styled-components (Bonus)
 
  
