@@ -1,0 +1,29 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app_hooked.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravparashar12/ToDo.git"
+  },
+  "author": "Gaurav Parashar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravparashar12/ToDo/issues"
+  },
+  "homepage": "https://github.com/gauravparashar12/ToDo#readme",
+  "dependencies": {
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-register": "^6.26.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-busboy": "^7.0.0",
+    "mongoose": "^5.3.6",
+    "morgan": "^1.9.1",
+    "source-map-support": "^0.5.9"
+  }
+}
